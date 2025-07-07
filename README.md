@@ -65,7 +65,7 @@ I'm a passionate full-stack developer with hands-on experience building scalable
 
 - 💬 Email: **niyonkurusam5@gmail.com**
 - 🌐 [Portfolio Website](https://samuelniyonkuru.onrender.com/portifolio)
-- 💼 Open to remote opportunities (Full-Stack / Backend Developer)
+- 💼 Open to any opportunities (Full-Stack / Backend or fronter Developer)
 
 ---
 
